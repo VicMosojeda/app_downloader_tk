@@ -1,51 +1,50 @@
 [![V1](donwloader.png)](video.mp4)
 
-# 🎵 Downloader GUI - App para descargar MP3 y MP4
+# 🎵 Downloader GUI - App to Download MP3 and MP4
 
-Aplicación de escritorio para Windows que permite descargar audios en MP3 o videos en MP4 desde plataformas como YouTube, usando una interfaz gráfica amigable.
+Desktop application for Windows that allows you to download MP3 audio or MP4 video from platforms like YouTube, using a user-friendly graphical interface.
 
-## 📦 Qué hace
+## 📦 Features
 
-- ✅ Descarga **audios (MP3)** o **videos (MP4)** desde una URL.
-- ✅ Interfaz sencilla e intuitiva.
-- ✅ No necesita instalación de Python.
-- ✅ Permite elegir la carpeta donde se guardarán los archivos.
-- ✅ Soporte para múltiples sitios gracias a `yt-dlp`.
+- ✅ Download **audio (MP3)** or **video (MP4)** from a URL.
+- ✅ Simple and intuitive interface.
+- ✅ No need to install Python.
+- ✅ Lets you choose the destination folder.
+- ✅ Supports multiple sites thanks to `yt-dlp`.
 
-## 🖥️ Requisitos
+## 🖥️ Requirements
 
-- Sistema operativo: **Windows 10/11**
-- FFmpeg incluido en el ejecutable (si no es así, asegúrate de tenerlo en tu PATH)
+- Operating System: **Windows 10/11**
+- FFmpeg is included in the executable (if not, make sure it's in your PATH)
 
-## 🚀 Cómo usar
+## 🚀 How to Use
 
-1. Ejecuta el archivo `Downloader.exe` haciendo doble clic.
-2. Pega el enlace del video o audio.
-3. Selecciona el formato que deseas:  
-   - 🎶 MP3 → solo el audio  
-   - 🎥 MP4 → video completo
-4. Haz clic en **Seleccionar carpeta** para indicar dónde guardar el archivo.
-5. Presiona **Descargar** y espera el mensaje de éxito.
+1. Run the `Downloader.exe` file by double-clicking it.
+2. Paste the video or audio link.
+3. Choose the format you want:  
+   - 🎶 MP3 → audio only  
+   - 🎥 MP4 → full video
+4. Click **Select folder** to choose where to save the file.
+5. Press **Download** and wait for the success message.
 
-## 📁 Archivos incluidos
+## 📁 Included Files
 
 Downloader/
 ├── Downloader.exe
 ├── DMownloader.ico
 └── README.md
 
+> You can move the folder anywhere, just make sure the `.exe` and the icon file stay together (if you're using it).
 
-> Puedes mover la carpeta a cualquier lugar, solo asegúrate de que el `.exe` y el ícono estén juntos (si lo usas).
+## ❗ Important Note
 
-## ❗ Nota importante
+- If you see errors related to FFmpeg, make sure it’s correctly configured or bundled.
+- The icon (`DMownloader.ico`) is optional but improves the visual appearance of the program.
 
-- Si ves errores relacionados con FFmpeg, asegúrate de que esté correctamente configurado o integrado.
-- El ícono (`DMownloader.ico`) es opcional pero puede mejorar la apariencia del programa.
+## 📜 License
 
-## 📜 Licencia
-
-Este software está licenciado bajo la MIT License. Eres libre de usarlo, modificarlo y distribuirlo.
+This software is licensed under the MIT License. You are free to use, modify, and distribute it.
 
 ---
 
-¡Gracias por usar Downloader! Si tienes sugerencias o errores que reportar, no dudes en contribuir o contactarme.
+Thank you for using Downloader! If you have suggestions or issues to report, feel free to contribute or contact me.
