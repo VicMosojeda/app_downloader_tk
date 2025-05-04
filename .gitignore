@@ -1,0 +1,10 @@
+venv/
+.env/
+env/
+build/
+dist/
+*.mp4
+*.ico
+*.png
+*.mp3
+.spec
