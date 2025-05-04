@@ -1,4 +1,4 @@
-[![V1](ruta/a/una-imagen.png)](video.mp4)
+[![V1](donwloader.png)](video.mp4)
 
 # 🎵 Downloader GUI - App para descargar MP3 y MP4
 
